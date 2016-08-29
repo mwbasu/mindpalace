@@ -1,2 +1,1 @@
-this is third test file'a
-changes to 3rd
+changes to the third
